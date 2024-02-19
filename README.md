@@ -1,5 +1,5 @@
 <!-- Título -->
-# Nosso primeiro Código
+# Nosso Primeiro Código
 
 [Hello World.](main.ts)
 
