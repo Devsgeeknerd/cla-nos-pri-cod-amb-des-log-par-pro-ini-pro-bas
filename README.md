@@ -3,6 +3,21 @@
 
 [Hello World.](main.ts)
 
+> [!IMPORTANT]\
+> **Boas práticas**:
+>
+> * Comentários concisos e claros ajudam na compreensão do código.
+> * Certifique-se de usar nomes significativos para variáveis e funções, o que torna o código mais legível.
+> * Este código é bastante simples, então não há muitas sugestões de melhoria. No entanto, em projetos mais complexos, é recomendável dividir a lógica em funções ou módulos para facilitar a manutenção.
+> * Mantenha o código limpo e organizado, seguindo convenções de estilo e formatação.
+> * Certifique-se de que o código está bem documentado para ajudar outros desenvolvedores a entenderem facilmente o propósito e o funcionamento.
+
+> [!NOTE]\
+> **Observação**:
+>
+> * Neste caso, não há muito o que melhorar, pois é um script simples para imprimir uma mensagem.
+> * No entanto, essas práticas são mais relevantes em contextos mais complexos.
+
 <!-- Informações -->
 ## &#8505; Informações
 
